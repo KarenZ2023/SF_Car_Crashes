@@ -8,7 +8,7 @@ This project explores all crashes resulting in an injury in the City of San Fran
 
 The data files are found in `Data.zip`. <br>
 
-The files below are obtained from data.sfgov.org on August 19,2024. 
+The data files below are obtained from data.sfgov.org on August 19,2024. 
 - `Data/Traffic_Crashes_Resulting_in_Injury_20240819.csv` contains all crashes resulting in an injury.
 
 - `Traffic_Crashes_Resulting_in_Injury__Victims_Involved_20240819.csv` contains all victims (parties who are injured) involved in a traffic crash resulting      in an injury.
@@ -17,7 +17,7 @@ The files below are obtained from data.sfgov.org on August 19,2024.
 
 - `Traffic_Crashes_Resulting_in_Fatality_20240819.csv` contains all fatalities resulting from a traffic crash.
 
-The file below is created after data wrangling (e.g. remove duplicates). It selects certain columns from `Traffic_Crashes_Resulting_in_Injury_20240819.csv` and    `Traffic_Crashes_Resulting_in_Injury__Victims_Involved_20240819.csv`. 
+The data file below is created after data wrangling (e.g. remove duplicates). It selects certain columns from `Traffic_Crashes_Resulting_in_Injury_20240819.csv` and    `Traffic_Crashes_Resulting_in_Injury__Victims_Involved_20240819.csv`. 
 - `SF_Traffic_Incidents_Cleaned.csv` contains all crashes that resulted in an injury and information about the victims.
 
 ## Interesting Findings:
