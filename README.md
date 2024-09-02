@@ -17,7 +17,7 @@ The files below are obtained from data.sfgov.org on August 19,2024.
 
 - `Traffic_Crashes_Resulting_in_Fatality_20240819.csv` contains all fatalities resulting from a traffic crash.
 
-This file is created after data wrangling (e.g. remove duplicates). It selects certain columns from `Traffic_Crashes_Resulting_in_Injury_20240819.csv` and    `Traffic_Crashes_Resulting_in_Injury__Victims_Involved_20240819.csv`. 
+The file below is created after data wrangling (e.g. remove duplicates). It selects certain columns from `Traffic_Crashes_Resulting_in_Injury_20240819.csv` and    `Traffic_Crashes_Resulting_in_Injury__Victims_Involved_20240819.csv`. 
 - `SF_Traffic_Incidents_Cleaned.csv` contains all crashes and information about the victims.
 
 ## Interesting Findings:
