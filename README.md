@@ -6,7 +6,7 @@ This project explores all crashes resulting in an injury in the City of San Fran
 
 - `Data_Exploration_SQL.ipynb` contains all the SQL queries for data exploration. 
 
-The data files found `Data.zip`. <br>
+The data files are found in `Data.zip`. <br>
 
 The files below are obtained from data.sfgov.org on August 19,2024. 
 - `Data/Traffic_Crashes_Resulting_in_Injury_20240819.csv` contains all crashes resulting in an injury.
