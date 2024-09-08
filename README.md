@@ -13,7 +13,7 @@ Traffic crash data were obtained from data.sfgov.org on August 19,2024. The data
 
 - `Traffic_Crashes_Resulting_in_Fatality_20240819.csv` contains all fatalities resulting from a traffic crash.
 
-The data files below were created after data wrangling (e.g. remove 2024 entries and duplicates) and can be found in `Data.zip`. <br>.
+The data files below were created after data wrangling (e.g. remove 2024 entries and duplicates) and can be found in `Data.zip`. 
 - `Traffic_Crashes_All_Cleaned.csv` contains crashes that resulted in an injury from 2005 to 2023.  
 
 - `At_Fault_Demographics.csv` contains demographic data of parties who may or may not be at fault for the incidents from 2005 to 2023. The table was generated from `Traffic_Crashes_Resulting_in_Injury__Parties_Involved_20240819.csv`
@@ -33,3 +33,5 @@ Code file:
 ## Tableau Visualization
 
 Check out the Tableau visualization of the San Francisco traffic crashes [here](https://public.tableau.com/app/profile/karen.zhu3272/viz/SanFranciscoTrafficCrashes2005-2023/Dashboard?publish=yes). This visualization shows a timelapse of the traffic crashes in San Francisco from 2005 to 2023. It also shows the top 10 neighbhoords/streets with the most incidents as well as the most deadly collision types.
+
+![image](https://github.com/KarenZ2023/SF_Car_Crashes/blob/main/Tableau_viz_screenshot.png)
