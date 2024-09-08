@@ -24,7 +24,7 @@ Code file:
 ## Interesting Findings:
 
 - There are on average ~3000 car crashes per year that result in an injury.
-- On average 29 people are killed and ~3,700 are injured annually in these car crashes.
+- On average 29 people are killed and ~3,800 are injured annually in these car crashes.
 - Most car crashes happen on Mission St, followed by Market St, Vanness Ave, and Geary Blvd.
 - The average number of injured individuals per car crash is 1.
 - Men are twice as likely to be injured in car crashes compared to women, and this trend also holds true for those deemed at fault.
