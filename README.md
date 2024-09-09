@@ -32,6 +32,6 @@ Code file:
 
 ## Tableau Visualization
 
-Check out the Tableau visualization of the San Francisco traffic crashes [here](https://public.tableau.com/app/profile/karen.zhu3272/viz/SanFranciscoTrafficCrashes2005-2023/Dashboard?publish=yes). This visualization shows a timelapse of the traffic crashes in San Francisco from 2005 to 2023. It also shows the top 10 neighbhoords/streets with the most incidents as well as the most deadly collision types.
+Check out the Tableau visualization of the San Francisco traffic crashes [here](https://public.tableau.com/app/profile/karen.zhu3272/viz/SanFranciscoTrafficCrashes2005-2023/Dashboard?publish=yes). This visualization shows a timelapse of the traffic crashes in San Francisco from 2005 to 2023. It also shows the top 10 neighborhoods/streets with the most incidents as well as the most deadly collision types.
 
 ![image](https://github.com/KarenZ2023/SF_Car_Crashes/blob/main/Tableau_viz_screenshot.png)
